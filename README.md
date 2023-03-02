@@ -4,7 +4,7 @@ This is a simple vanilla JavaScript app that retrieves and displays wallpaper im
 
 The app is live on Netlify at [https://backgrounds-pan-be.netlify.app/](https://backgrounds-pan-be.netlify.app/)
 
-##How to Use
+## How to Use
 
     Visit the app website at https://backgrounds-pan-be.netlify.app/
     The app will load the first batch of wallpaper images from the Pixabay API. The loader will be displayed during this process.
@@ -16,7 +16,7 @@ The app is live on Netlify at [https://backgrounds-pan-be.netlify.app/](https://
 
 The app utilizes the Pixabay API to retrieve wallpaper images. You can find more information about the API and its usage guidelines at [https://pixabay.com/api/docs/](https://pixabay.com/api/docs/).
 
-##Author
+## Author
 
 This project was created by [Pan.Be](https://pan-be.vercel.app/).
 
